@@ -1,0 +1,15 @@
+C:\Users\Colej\Desktop\Цирк\Касса\bin\Debug\net6.0\Касса.exe
+C:\Users\Colej\Desktop\Цирк\Касса\bin\Debug\net6.0\Касса.deps.json
+C:\Users\Colej\Desktop\Цирк\Касса\bin\Debug\net6.0\Касса.runtimeconfig.json
+C:\Users\Colej\Desktop\Цирк\Касса\bin\Debug\net6.0\Касса.dll
+C:\Users\Colej\Desktop\Цирк\Касса\bin\Debug\net6.0\Касса.pdb
+C:\Users\Colej\Desktop\Цирк\Касса\obj\Debug\net6.0\Касса.csproj.AssemblyReference.cache
+C:\Users\Colej\Desktop\Цирк\Касса\obj\Debug\net6.0\Касса.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colej\Desktop\Цирк\Касса\obj\Debug\net6.0\Касса.AssemblyInfoInputs.cache
+C:\Users\Colej\Desktop\Цирк\Касса\obj\Debug\net6.0\Касса.AssemblyInfo.cs
+C:\Users\Colej\Desktop\Цирк\Касса\obj\Debug\net6.0\Касса.csproj.CoreCompileInputs.cache
+C:\Users\Colej\Desktop\Цирк\Касса\obj\Debug\net6.0\Касса.dll
+C:\Users\Colej\Desktop\Цирк\Касса\obj\Debug\net6.0\refint\Касса.dll
+C:\Users\Colej\Desktop\Цирк\Касса\obj\Debug\net6.0\Касса.pdb
+C:\Users\Colej\Desktop\Цирк\Касса\obj\Debug\net6.0\Касса.genruntimeconfig.cache
+C:\Users\Colej\Desktop\Цирк\Касса\obj\Debug\net6.0\ref\Касса.dll
